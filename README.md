@@ -1,6 +1,6 @@
 # Live-Project
-Code snippets from my contribution to the team project to create a new web application for Job Placement on The Tech Academy's website.
-Created models, controllers, views, sql databases, sorting and filtering functionality.
+Code snippets included from my contribution to the team project to build out a web application for tracking aggregate Job Placement statistics.
+Created models, controllers, views, SQL databases, seed data, and sorting and filtering functionality.
 Added to styling and structuring.
-MVC, ASP.NET, Entity Framework, Visual Studios IDE, TFS version control.
-Scrum daily meetings during 2 week sprint.
+Utilized C#, MVC, ASP.NET, HTML, Entity Framework, Visual Studios, migrations, SQL server, and TFS version control.
+Attended Scrum daily meetings during this 2 week sprint.
